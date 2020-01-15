@@ -20,5 +20,11 @@ You should see initialization of spring boot then `shell:>` should be displayed
     number-to-word <NUMBER> =>  Convert the input <NUMBER> into his equivalent string
 
 ## Limit
-At the moment the numbers handled by this project are on the following range  
+At the moment numbers handled by this project are on the following range  
 0  <= NUMBER < 10000 
+
+## What next
+- improve the range of input number to number between 10000 and 1000000
+- internationalization
+- reverse convertion (words to numbers)
+- alternative convertion (with `and` words and `-` like `one hundred and twenty-two`)
